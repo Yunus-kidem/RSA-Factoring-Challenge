@@ -1,7 +1,6 @@
 # RSA Factoring Challenge\
-\
-##Factorize all the things!
-### 0\. Factorize all the things!#advanced
+
+### Factorize all the things!
 
 Factorize as many numbers as possible into a product of two smaller numbers.
 
